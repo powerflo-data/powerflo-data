@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Oliver
-- 👀 I’m interested in Data Science and Engineering
-- 🌱 I’m currently learning more about Data Science in general.
-- 💞️ I’m looking to collaborate on getting to know different linear and non-linear models from scikit-learn.
+- 👋 Hi, I’m Oliver :)
+- 👀 I’m interested in Engineering and Data Science.
+- 🌱 I’m currently learning more about Data Science in general and dive deeper into it.
+- 💞️ I’m looking to collaborate on time analysis projects in future. 
 - 📫 How to reach me: kegelkopf@gmail.com
 
 <!---
