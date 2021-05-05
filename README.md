@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Oliver :)
 - 👀 I’m interested in Engineering and Data Science.
-- 🌱 I’m currently learning more about Data Science in general and dive deeper into it:
+- 🌱 Since I mastered the Data Analytics Bootcamp @Ironhack, I’m currently studying more about Data Science and dive deeper into it:
 -   * ML-Libraries (PyTorch, Tensorflow, Scikit-Learn etc.)
 -   * A/B-Testing
 -   * NLP
--   * Tuning modeling performance
+-   * Optimization of modeling performance
 - 💞️ I’m looking to collaborate on time analysis projects in future. 
 - 📫 How to reach me: kegelkopf@gmail.com
 
